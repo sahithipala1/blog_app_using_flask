@@ -1,5 +1,5 @@
 Flask
- bcrypt
+bcrypt
 blinker
 certifi
 cffi
