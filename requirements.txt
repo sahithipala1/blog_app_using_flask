@@ -18,3 +18,11 @@ six
 SQLAlchemy
 Werkzeug
 WTForms
+Flask-Migrate
+Flask-Script
+Flask-Cors
+requests
+mysqlclient
+pika
+wolframalpha
+itsdangerous==2.0.1
