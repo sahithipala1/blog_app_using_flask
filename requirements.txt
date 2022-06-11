@@ -25,4 +25,3 @@ requests
 mysqlclient
 pika
 wolframalpha
-itsdangerous==2.0.1
