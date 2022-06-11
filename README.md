@@ -3,8 +3,8 @@ This repository build a blog app using Flask package in python.
 
 ## Local Development
 ```bash
-
-[//]: # TODO()
+poetry shell
+python -m flask run
 ```
 
 # Guidelines for developing software
